@@ -54,6 +54,8 @@
 
 - ในตัวอย่างนี้มีเพียงไฟล์ README.md ถ้ามีหลายไฟล์ ให้เลือกจากรายการไฟล์ใน pane ด้านซ้ายของห
 
+
+![image](https://github.com/Computer-Lab-I-2566/COM-LAB-I-LabSheet-Week-12/assets/144195906/114389bb-8bbd-4590-96eb-1f9175314101)
 | No | Commit message | Web site Commit number | Desktop Commit number | match |
 |:----:|:------------:|:----------------------:|:---------------------:|:-----:|
 | 1    | Initial commit                            |               0d72dab  |0d72dab               |  Yes  | 
@@ -61,6 +63,12 @@
 | 3    |  เว้นบรรทัด                                 |               c842ffd  |c842ffd               |  Yes  | 
 | 4    | Update README.md                          |               37c7778  |37c7778               |  Yes  | 
 | 5    | Update and rename README.md to README.md  |887a4d1                 |887a4d1               |  Yes  |
+
+![image](https://github.com/SitthaKlaphanich/COM-LAB-I-LabSheet-Week-12/assets/144195906/8b39d824-d8bb-4418-a69b-af06c6630d73)
+![image](https://github.com/SitthaKlaphanich/COM-LAB-I-LabSheet-Week-12/assets/144195906/b4b42b2e-0e19-42df-98e1-e02ee5e59755)
+![image](https://github.com/SitthaKlaphanich/COM-LAB-I-LabSheet-Week-12/assets/144195906/fb7e8055-e834-4540-abca-4686dcbbba61)
+![image](https://github.com/SitthaKlaphanich/COM-LAB-I-LabSheet-Week-12/assets/144195906/a1e6ec93-3fa0-441f-80c4-415d2304cd61)
+![image](https://github.com/SitthaKlaphanich/COM-LAB-I-LabSheet-Week-12/assets/144195906/e71b6f37-3991-418c-a38e-407f3f628137)
 
 
 
